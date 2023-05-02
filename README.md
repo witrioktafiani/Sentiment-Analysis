@@ -1,3 +1,3 @@
 # **Sentiment Analysis**
 
-This section will discuss one of the applications of NLP (natural language processing), namely sentiment analysis. 
+This section will discuss one of the applications of NLP (Natural Language Processing), namely sentiment analysis. 
