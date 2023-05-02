@@ -1,9 +1,9 @@
 # **Sentimen Analysis with VADER and SHAP**
 
-# What is SHAP?
+## What is SHAP?
 SHAP (SHapley Additive exPlanations) is a mathematical method to explain the predictions of machine learning models. 
 
-# What is VADER?
+## What is VADER?
 VADER (Valence Aware Dictionary for Sentiment Reasoning) is an NLTK module that provides sentiment scores based on the words used.
 
 ## The results of sentiment analysis with SHAP interpretation are:
